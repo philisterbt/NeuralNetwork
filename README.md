@@ -12,7 +12,7 @@ Target Market: BIST 100 (Turkey)
 
 Data Period: Jan 1, 2019 – Jan 1, 2025
 
-🛠 Tech Stack & Libraries
+Tech Stack & Libraries
 The project is implemented in Python using the following libraries:
 
 Data Source: yfinance
