@@ -41,21 +41,3 @@ Min-Max Scaling (0-1 range).
 80% Training / 20% Testing split.
 
 Modeling: Implemented Linear Regression, Decision Tree, Random Forest, and Long Short-Term Memory (LSTM) networks.
-
-
-How to Run
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/your-repo-name.git
-Install the required dependencies:
-
-Bash
-
-pip install yfinance pandas pandas_ta scikit-learn tensorflow matplotlib
-Open and run the Jupyter Notebook:
-
-Bash
-
-jupyter notebook tr_stock.ipynb
